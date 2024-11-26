@@ -1,0 +1,318 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\epica\\source\\repos\\examen2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66F46553-E553-43C6-99CA-CB580AB0897D}|examen2\\examen2.csproj|c:\\users\\epica\\source\\repos\\examen2\\examen2\\vistas\\usuario.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{66F46553-E553-43C6-99CA-CB580AB0897D}|examen2\\examen2.csproj|solutionrelative:examen2\\vistas\\usuario.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F46553-E553-43C6-99CA-CB580AB0897D}|examen2\\examen2.csproj|C:\\Users\\epica\\source\\repos\\examen2\\examen2\\vistas\\usuario.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F46553-E553-43C6-99CA-CB580AB0897D}|examen2\\examen2.csproj|solutionrelative:examen2\\vistas\\usuario.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F46553-E553-43C6-99CA-CB580AB0897D}|examen2\\examen2.csproj|C:\\Users\\epica\\source\\repos\\examen2\\examen2\\capalogica\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F46553-E553-43C6-99CA-CB580AB0897D}|examen2\\examen2.csproj|solutionrelative:examen2\\capalogica\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F46553-E553-43C6-99CA-CB580AB0897D}|examen2\\examen2.csproj|C:\\Users\\epica\\source\\repos\\examen2\\examen2\\vistas\\mainwebsist.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66F46553-E553-43C6-99CA-CB580AB0897D}|examen2\\examen2.csproj|solutionrelative:examen2\\vistas\\mainwebsist.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F46553-E553-43C6-99CA-CB580AB0897D}|examen2\\examen2.csproj|C:\\Users\\epica\\source\\repos\\examen2\\examen2\\css_login\\loginequipo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{66F46553-E553-43C6-99CA-CB580AB0897D}|examen2\\examen2.csproj|solutionrelative:examen2\\css_login\\loginequipo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F46553-E553-43C6-99CA-CB580AB0897D}|examen2\\examen2.csproj|C:\\Users\\epica\\source\\repos\\examen2\\examen2\\vistas\\tecnicos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{66F46553-E553-43C6-99CA-CB580AB0897D}|examen2\\examen2.csproj|solutionrelative:examen2\\vistas\\tecnicos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F46553-E553-43C6-99CA-CB580AB0897D}|examen2\\examen2.csproj|C:\\Users\\epica\\source\\repos\\examen2\\examen2\\vistas\\tecnicos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F46553-E553-43C6-99CA-CB580AB0897D}|examen2\\examen2.csproj|solutionrelative:examen2\\vistas\\tecnicos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F46553-E553-43C6-99CA-CB580AB0897D}|examen2\\examen2.csproj|C:\\Users\\epica\\source\\repos\\examen2\\examen2\\css_login\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{66F46553-E553-43C6-99CA-CB580AB0897D}|examen2\\examen2.csproj|solutionrelative:examen2\\css_login\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F46553-E553-43C6-99CA-CB580AB0897D}|examen2\\examen2.csproj|C:\\Users\\epica\\source\\repos\\examen2\\examen2\\vistas\\tequipos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{66F46553-E553-43C6-99CA-CB580AB0897D}|examen2\\examen2.csproj|solutionrelative:examen2\\vistas\\tequipos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F46553-E553-43C6-99CA-CB580AB0897D}|examen2\\examen2.csproj|C:\\Users\\epica\\source\\repos\\examen2\\examen2\\vistas\\tequipos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F46553-E553-43C6-99CA-CB580AB0897D}|examen2\\examen2.csproj|solutionrelative:examen2\\vistas\\tequipos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F46553-E553-43C6-99CA-CB580AB0897D}|examen2\\examen2.csproj|C:\\Users\\epica\\source\\repos\\examen2\\examen2\\capalogica\\equipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F46553-E553-43C6-99CA-CB580AB0897D}|examen2\\examen2.csproj|solutionrelative:examen2\\capalogica\\equipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F46553-E553-43C6-99CA-CB580AB0897D}|examen2\\examen2.csproj|C:\\Users\\epica\\source\\repos\\examen2\\examen2\\capamodelo\\tabla_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F46553-E553-43C6-99CA-CB580AB0897D}|examen2\\examen2.csproj|solutionrelative:examen2\\capamodelo\\tabla_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F46553-E553-43C6-99CA-CB580AB0897D}|examen2\\examen2.csproj|C:\\Users\\epica\\source\\repos\\examen2\\examen2\\capalogica\\dbconex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F46553-E553-43C6-99CA-CB580AB0897D}|examen2\\examen2.csproj|solutionrelative:examen2\\capalogica\\dbconex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F46553-E553-43C6-99CA-CB580AB0897D}|examen2\\examen2.csproj|C:\\Users\\epica\\source\\repos\\examen2\\examen2\\capalogica\\tecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F46553-E553-43C6-99CA-CB580AB0897D}|examen2\\examen2.csproj|solutionrelative:examen2\\capalogica\\tecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F46553-E553-43C6-99CA-CB580AB0897D}|examen2\\examen2.csproj|C:\\Users\\epica\\source\\repos\\examen2\\examen2\\capamodelo\\tabla_equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F46553-E553-43C6-99CA-CB580AB0897D}|examen2\\examen2.csproj|solutionrelative:examen2\\capamodelo\\tabla_equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F46553-E553-43C6-99CA-CB580AB0897D}|examen2\\examen2.csproj|C:\\Users\\epica\\source\\repos\\examen2\\examen2\\vistas\\tecnicos.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F46553-E553-43C6-99CA-CB580AB0897D}|examen2\\examen2.csproj|solutionrelative:examen2\\vistas\\tecnicos.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F46553-E553-43C6-99CA-CB580AB0897D}|examen2\\examen2.csproj|C:\\Users\\epica\\source\\repos\\examen2\\examen2\\capamodelo\\tabla_tecnicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F46553-E553-43C6-99CA-CB580AB0897D}|examen2\\examen2.csproj|solutionrelative:examen2\\capamodelo\\tabla_tecnicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F46553-E553-43C6-99CA-CB580AB0897D}|examen2\\examen2.csproj|C:\\Users\\epica\\source\\repos\\examen2\\examen2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{66F46553-E553-43C6-99CA-CB580AB0897D}|examen2\\examen2.csproj|solutionrelative:examen2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Main.css",
+              "DocumentMoniker": "C:\\Users\\epica\\source\\repos\\examen2\\examen2\\css_login\\Main.css",
+              "RelativeDocumentMoniker": "examen2\\css_login\\Main.css",
+              "ToolTip": "C:\\Users\\epica\\source\\repos\\examen2\\examen2\\css_login\\Main.css",
+              "RelativeToolTip": "examen2\\css_login\\Main.css",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-26T03:39:51.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWebSist.html",
+              "DocumentMoniker": "C:\\Users\\epica\\source\\repos\\examen2\\examen2\\vistas\\MainWebSist.html",
+              "RelativeDocumentMoniker": "examen2\\vistas\\MainWebSist.html",
+              "ToolTip": "C:\\Users\\epica\\source\\repos\\examen2\\examen2\\vistas\\MainWebSist.html",
+              "RelativeToolTip": "examen2\\vistas\\MainWebSist.html",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwCYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-26T03:37:43.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuario.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\epica\\source\\repos\\examen2\\examen2\\vistas\\Usuario.aspx.cs",
+              "RelativeDocumentMoniker": "examen2\\vistas\\Usuario.aspx.cs",
+              "ToolTip": "C:\\Users\\epica\\source\\repos\\examen2\\examen2\\vistas\\Usuario.aspx.cs",
+              "RelativeToolTip": "examen2\\vistas\\Usuario.aspx.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAswL4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:20:33.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\epica\\source\\repos\\examen2\\examen2\\CapaLogica\\Usuarios.cs",
+              "RelativeDocumentMoniker": "examen2\\CapaLogica\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\epica\\source\\repos\\examen2\\examen2\\CapaLogica\\Usuarios.cs",
+              "RelativeToolTip": "examen2\\CapaLogica\\Usuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:05:30.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tequipos.aspx",
+              "DocumentMoniker": "C:\\Users\\epica\\source\\repos\\examen2\\examen2\\vistas\\Tequipos.aspx",
+              "RelativeDocumentMoniker": "examen2\\vistas\\Tequipos.aspx",
+              "ToolTip": "C:\\Users\\epica\\source\\repos\\examen2\\examen2\\vistas\\Tequipos.aspx",
+              "RelativeToolTip": "examen2\\vistas\\Tequipos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-25T05:54:58.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Tequipos.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\epica\\source\\repos\\examen2\\examen2\\vistas\\Tequipos.aspx.cs",
+              "RelativeDocumentMoniker": "examen2\\vistas\\Tequipos.aspx.cs",
+              "ToolTip": "C:\\Users\\epica\\source\\repos\\examen2\\examen2\\vistas\\Tequipos.aspx.cs",
+              "RelativeToolTip": "examen2\\vistas\\Tequipos.aspx.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAmwL8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T05:54:40.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Equipos.cs",
+              "DocumentMoniker": "C:\\Users\\epica\\source\\repos\\examen2\\examen2\\CapaLogica\\Equipos.cs",
+              "RelativeDocumentMoniker": "examen2\\CapaLogica\\Equipos.cs",
+              "ToolTip": "C:\\Users\\epica\\source\\repos\\examen2\\examen2\\CapaLogica\\Equipos.cs",
+              "RelativeToolTip": "examen2\\CapaLogica\\Equipos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T05:51:04.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tecnicos.aspx",
+              "DocumentMoniker": "C:\\Users\\epica\\source\\repos\\examen2\\examen2\\vistas\\Tecnicos.aspx",
+              "RelativeDocumentMoniker": "examen2\\vistas\\Tecnicos.aspx",
+              "ToolTip": "C:\\Users\\epica\\source\\repos\\examen2\\examen2\\vistas\\Tecnicos.aspx",
+              "RelativeToolTip": "examen2\\vistas\\Tecnicos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-25T05:19:42.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tecnicos.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\epica\\source\\repos\\examen2\\examen2\\vistas\\Tecnicos.aspx.cs",
+              "RelativeDocumentMoniker": "examen2\\vistas\\Tecnicos.aspx.cs",
+              "ToolTip": "C:\\Users\\epica\\source\\repos\\examen2\\examen2\\vistas\\Tecnicos.aspx.cs",
+              "RelativeToolTip": "examen2\\vistas\\Tecnicos.aspx.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAowJ4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T05:29:58.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Usuario.aspx",
+              "DocumentMoniker": "C:\\Users\\epica\\source\\repos\\examen2\\examen2\\vistas\\Usuario.aspx",
+              "RelativeDocumentMoniker": "examen2\\vistas\\Usuario.aspx",
+              "ToolTip": "C:\\Users\\epica\\source\\repos\\examen2\\examen2\\vistas\\Usuario.aspx",
+              "RelativeToolTip": "examen2\\vistas\\Usuario.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-25T05:55:43.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Tabla_Equipo.cs",
+              "DocumentMoniker": "C:\\Users\\epica\\source\\repos\\examen2\\examen2\\CapaModelo\\Tabla_Equipo.cs",
+              "RelativeDocumentMoniker": "examen2\\CapaModelo\\Tabla_Equipo.cs",
+              "ToolTip": "C:\\Users\\epica\\source\\repos\\examen2\\examen2\\CapaModelo\\Tabla_Equipo.cs",
+              "RelativeToolTip": "examen2\\CapaModelo\\Tabla_Equipo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:42:00.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DBConex.cs",
+              "DocumentMoniker": "C:\\Users\\epica\\source\\repos\\examen2\\examen2\\CapaLogica\\DBConex.cs",
+              "RelativeDocumentMoniker": "examen2\\CapaLogica\\DBConex.cs",
+              "ToolTip": "C:\\Users\\epica\\source\\repos\\examen2\\examen2\\CapaLogica\\DBConex.cs",
+              "RelativeToolTip": "examen2\\CapaLogica\\DBConex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:37:47.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "loginEquipo.css",
+              "DocumentMoniker": "C:\\Users\\epica\\source\\repos\\examen2\\examen2\\css_login\\loginEquipo.css",
+              "RelativeDocumentMoniker": "examen2\\css_login\\loginEquipo.css",
+              "ToolTip": "C:\\Users\\epica\\source\\repos\\examen2\\examen2\\css_login\\loginEquipo.css",
+              "RelativeToolTip": "examen2\\css_login\\loginEquipo.css",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-25T06:20:50.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Tecnico.cs",
+              "DocumentMoniker": "C:\\Users\\epica\\source\\repos\\examen2\\examen2\\CapaLogica\\Tecnico.cs",
+              "RelativeDocumentMoniker": "examen2\\CapaLogica\\Tecnico.cs",
+              "ToolTip": "C:\\Users\\epica\\source\\repos\\examen2\\examen2\\CapaLogica\\Tecnico.cs",
+              "RelativeToolTip": "examen2\\CapaLogica\\Tecnico.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAYwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T22:12:33.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Tabla_Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\epica\\source\\repos\\examen2\\examen2\\CapaModelo\\Tabla_Usuario.cs",
+              "RelativeDocumentMoniker": "examen2\\CapaModelo\\Tabla_Usuario.cs",
+              "ToolTip": "C:\\Users\\epica\\source\\repos\\examen2\\examen2\\CapaModelo\\Tabla_Usuario.cs",
+              "RelativeToolTip": "examen2\\CapaModelo\\Tabla_Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T21:22:29.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Tecnicos.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\epica\\source\\repos\\examen2\\examen2\\vistas\\Tecnicos.aspx.designer.cs",
+              "RelativeDocumentMoniker": "examen2\\vistas\\Tecnicos.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\epica\\source\\repos\\examen2\\examen2\\vistas\\Tecnicos.aspx.designer.cs",
+              "RelativeToolTip": "examen2\\vistas\\Tecnicos.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T00:39:55.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Tabla_Tecnicos.cs",
+              "DocumentMoniker": "C:\\Users\\epica\\source\\repos\\examen2\\examen2\\CapaModelo\\Tabla_Tecnicos.cs",
+              "RelativeDocumentMoniker": "examen2\\CapaModelo\\Tabla_Tecnicos.cs",
+              "ToolTip": "C:\\Users\\epica\\source\\repos\\examen2\\examen2\\CapaModelo\\Tabla_Tecnicos.cs",
+              "RelativeToolTip": "examen2\\CapaModelo\\Tabla_Tecnicos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T05:36:28.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\epica\\source\\repos\\examen2\\examen2\\Web.config",
+              "RelativeDocumentMoniker": "examen2\\Web.config",
+              "ToolTip": "C:\\Users\\epica\\source\\repos\\examen2\\examen2\\Web.config",
+              "RelativeToolTip": "examen2\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-25T06:46:14.192Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
